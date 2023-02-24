@@ -28,3 +28,15 @@ body {
     
 
 }
+
+.fizz {
+    background-color: crimson;
+}
+
+.buzz {
+    background-color: darkslategrey;
+}
+
+.fizzbuzz {
+    background-color: greenyellow;
+}
